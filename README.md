@@ -13,8 +13,6 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=ISHACK_S&style=for-the-badge&color=red" alt="Profile Views"/>
-
 </div>
 
 ---
