@@ -42,19 +42,6 @@ Currently diving deeper into **Machine Learning**, while slowly working toward t
 When I'm not writing code, I'm probably **gaming, riding, working on a project, or finding another thing to break and rebuild.**
 
 ---
-
-# 🎮 GAME MODE
-
-```text
-╔═════════════════════════════════════════════════════════════╗
-║                                                             ║
-║                    🎮 GAME DEV QUEST                        ║
-║                                                             ║
-║      BUILD → TEST → BREAK → DEBUG → REPEAT                 ║
-║                                                             ║
-╚═════════════════════════════════════════════════════════════╝
-```
-
 ### Main interests
 
 - 🎮 Game Development
@@ -65,19 +52,6 @@ When I'm not writing code, I'm probably **gaming, riding, working on a project, 
 - 💻 Software Engineering
 
 My long-term goal is to build games and interactive experiences where **code actually feels like part of the experience**.
-
----
-
-# 🏍️ GARAGE
-
-```text
-             ______________________________
-        ____/                              \____
-       /                                        \
-      /          🏍️  RIDE. BUILD. REPEAT.       \
-     /____________________________________________\
-             O                              O
-```
 
 ### Outside the terminal
 
@@ -94,16 +68,6 @@ If it has a GPU, engine, keyboard or terminal, there's a good chance I'm interes
 ---
 
 # 🚀 PROJECTS
-
-## 📚 ScholarFlow AI
-
-**AI-powered academic study workspace**
-
-Transforms academic notes into structured learning resources and personalized learning paths.
-
-**Focus:** `Machine Learning` `NLP` `EdTech`
-
----
 
 ## 📅 Schel
 
@@ -130,16 +94,6 @@ An integration gateway designed to bridge modern REST-based applications with le
 - Observability
 
 **Focus:** `FinTech` `Backend Systems` `API Architecture`
-
----
-
-## 🏥 TriageX
-
-**AI-powered healthcare management platform**
-
-A healthcare-focused project exploring intelligent clinical workflows, prescription analysis and patient-centric digital health systems.
-
-**Focus:** `AI` `Healthcare` `Security` `Clinical Systems`
 
 ---
 
@@ -207,20 +161,6 @@ Game Development       ████████░░░░░░░░░░░
 Deep Learning          █████░░░░░░░░░░░░░░
 System Design           ██████░░░░░░░░░░░░░
 ```
-
----
-
-# 📊 GITHUB STATS
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=ISHACK_S&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400"
-  alt="GitHub Stats"
-  width="495"
-/>
-
-</div>
 ---
 
 # 🔥 CONTRIBUTION STREAK
@@ -230,17 +170,6 @@ System Design           ██████░░░░░░░░░░░░�
 <img src="https://streak-stats.demolab.com?user=ISHACK_S&theme=dark&hide_border=true" />
 
 </div>
-
----
-
-# 📈 ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ISHACK_S&theme=github-compact&hide_border=true&area=true" />
-
-</div>
-
 ---
 
 # 🐍 CONTRIBUTION SNAKE
@@ -258,7 +187,7 @@ System Design           ██████░░░░░░░░░░░░�
 ```text
 ┌─────────────────────────────────────────────────────────────┐
 │                                                             │
-│  "If it works, don't touch it."                             │
+│            "If it works, don't touch it."                   │
 │                                                             │
 │                         ↓                                   │
 │                                                             │
@@ -281,7 +210,7 @@ System Design           ██████░░░░░░░░░░░░�
 <img src="https://img.shields.io/badge/GitHub-ISHACK__S-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/ishack-s-45b423316/">
 <img src="https://img.shields.io/badge/LinkedIn-ISHACK%20S-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
