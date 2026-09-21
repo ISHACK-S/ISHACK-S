@@ -161,25 +161,6 @@ System Design           ██████░░░░░░░░░░░░�
 ```
 ---
 
-# 🔥 CONTRIBUTION STREAK
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=ISHACK_S&theme=dark&hide_border=true" />
-
-</div>
----
-
-# 🐍 CONTRIBUTION SNAKE
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ISHACK_S/ISHACK_S/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
-
-</div>
-
----
-
 # 🧠 BUILD PHILOSOPHY
 
 ```text
