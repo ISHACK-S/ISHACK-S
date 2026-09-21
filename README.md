@@ -215,17 +215,12 @@ System Design           ██████░░░░░░░░░░░░�
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=ISHACK_S&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=86400"
+  src="https://github-readme-stats.vercel.app/api?username=ISHACK_S&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400"
   alt="GitHub Stats"
-/>
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ISHACK_S&layout=compact&theme=dark&hide_border=true&cache_seconds=86400"
-  alt="Top Languages"
+  width="495"
 />
 
 </div>
-
 ---
 
 # 🔥 CONTRIBUTION STREAK
