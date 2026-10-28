@@ -135,20 +135,28 @@ A GitHub App designed to automate changelog and release-note workflows.
 
 # 🏆 HACKATHON LOG
 
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                     ACHIEVEMENT LOG                         │
-├─────────────────────────────────────────────────────────────┤
-│                                                             │
-│  🥉  MathXplore Hackathon          → 3rd Place              │
-│                                                             │
-│  🥉  SDG Hackathon                → 3rd Place              │
-│                                                             │
-│  🏅  CyberStrike CTF              → Top 10                 │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+</div>
 
+<table>
+<tr>
+<td>🥉</td>
+<td>MathXplore Hackathon</td>
+<td>→</td>
+<td><strong>3rd Place</strong></td>
+</tr>
+<tr>
+<td>🥉</td>
+<td>SDG Hackathon</td>
+<td>→</td>
+<td><strong>3rd Place</strong></td>
+</tr>
+<tr>
+<td>🏅</td>
+<td>CyberStrike CTF</td>
+<td>→</td>
+<td><strong>Top 10</strong></td>
+</tr>
+</table>
 ---
 
 # 🧪 CURRENTLY LEARNING
