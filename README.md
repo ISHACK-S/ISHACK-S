@@ -193,7 +193,7 @@ System Design           ██████░░░░░░░░░░░░�
 
 <div align="center">
 
-<a href="https://github.com/ISHACK_S">
+<a href="https://github.com/ISHACK-S">
 <img src="https://img.shields.io/badge/GitHub-ISHACK__S-181717?style=for-the-badge&logo=github"/>
 </a>
 
